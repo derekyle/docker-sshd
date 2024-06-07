@@ -1,4 +1,4 @@
-FROM ajoergensen/baseimage-alpine
+FROM ajoergensen/baseimage-alpine:latest
 MAINTAINER ajoergensen
 
 COPY root/ /
